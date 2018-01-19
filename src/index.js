@@ -9,7 +9,7 @@ import SearchBar from "./components/search_bar";
 
 
 // google api
-// const API_KEY = 'AIzaSyDUs3oApnLzZ38WcMYFCVPd5cFKYtuLe3M';
+// const API_KEY = '{replace your own google api key}';
 
 /*quick example for YTSearch, still use similar jQuery call back func*/
 // then move this func into class component App
